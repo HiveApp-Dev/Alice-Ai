@@ -1,7 +1,7 @@
 ALICE AI
 24/7 AUTONOMOUS EDUCATIONAL AGENT
 =================================
-Alice Was Made To Combat The Use Of Damaging Books For AI
+Alice Was Made To Combat The Use Of Burning Books For AI
 Instead We Turn Youtube Itself Into Quick Book Like Summaries
 To Add To Alice's Digital Libary
           ---------------------

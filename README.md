@@ -1,12 +1,13 @@
 ALICE AI
 24/7 AUTONOMOUS EDUCATIONAL AGENT
 =================================
+Alice Was Made To Combat The Use Of Damaging Books For AI
+Instead We Turn Youtube Itself Into Quick Book Like Summaries
 
-Alice Ai is not a static list of topics. It is a continuously running
-learning engine that researches one focused lesson at a time, rejects weak
-sources, summarizes useful material, and saves verified Markdown lessons.
 
-THIS REPO IS A UNOFFICIAL YOUTUBE ENCYCLOPEDIA
+
+
+
 
 THE CURRICULUM ENGINE
 ---------------------

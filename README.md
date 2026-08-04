@@ -1,4 +1,3 @@
-# Alice-Ai
 ALICE AI
 24/7 AUTONOMOUS EDUCATIONAL AGENT
 =================================

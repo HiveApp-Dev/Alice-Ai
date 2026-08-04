@@ -20,17 +20,6 @@ Alice Ai currently combines:
   * Category-specific real-world contexts such as student budgets, web apps,
     retirement accounts, used-car inspections, public datasets, and more
 
-Each learning path combines a subject, a focused skill, a difficulty level,
-an activity, and a real-world situation. For example:
-
-  Budgeting and saving fundamentals
-    -> budgeting and cash-flow decisions
-      -> beginner
-        -> worked example
-          -> student budget
-
-Alice saves her progress permanently, so she does not restart from the
-beginning or knowingly regenerate the same learning path after a restart.
 
 WHAT HAPPENS IN EVERY CYCLE
 ---------------------------
@@ -56,6 +45,4 @@ gap proposals, and carefully controlled study angles.
 The result is a growing personal learning library rather than a one-time
 search script: thousands of possible learning paths, durable progress, and
 real Markdown lessons that remain readable outside the app.
-
-RUN IT
 

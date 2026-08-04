@@ -24,18 +24,6 @@ Alice Ai currently combines:
     retirement accounts, used-car inspections, public datasets, and more
 
 
-WHAT HAPPENS IN EVERY CYCLE
----------------------------
-
-  1. The curriculum planner chooses one uncovered lesson.
-  2. Alice searches several relevant YouTube candidates.
-  3. Transcript quality checks reject interviews, podcasts, panels, corrupted
-     captions, excessive repetition, and badly formatted speech.
-  4. Alice retries fresh candidates when a source is blocked or unusable.
-  5. The synthesis and quality steps create a beginner-friendly study guide.
-  6. The file writer verifies that the Markdown file exists before reporting
-     success.
-  7. Persistent history records the topic, concepts, sources, and outcome.
 
 WHY IT KEEPS GROWING
 --------------------

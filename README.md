@@ -46,4 +46,4 @@ The result is a growing personal learning library rather than a one-time
 search script: thousands of possible learning paths, durable progress, and
 real Markdown lessons that remain readable outside the app.
 
-This Repo is the hub for the data it collects i might drop the full thing soon!
+This Repo is the hub for the data it collects i might drop the full thing soon !

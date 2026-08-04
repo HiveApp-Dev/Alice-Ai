@@ -6,6 +6,8 @@ Alice Ai is not a static list of topics. It is a continuously running
 learning engine that researches one focused lesson at a time, rejects weak
 sources, summarizes useful material, and saves verified Markdown lessons.
 
+THIS REPO IS A UNOFFICIAL YOUTUBE ENCYCLOPEDIA
+
 THE CURRICULUM ENGINE
 ---------------------
 

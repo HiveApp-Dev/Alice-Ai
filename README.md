@@ -3,7 +3,7 @@ ALICE AI
 =================================
 Alice Was Made To Combat The Use Of Damaging Books For AI
 Instead We Turn Youtube Itself Into Quick Book Like Summaries
-To Add To Alice's DIGITAL LIBARY
+To Add To Alice's Digital Libary
 
 
 

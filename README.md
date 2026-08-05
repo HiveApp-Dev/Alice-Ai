@@ -14,9 +14,9 @@ THE CURRICULUM ENGINE
 
 Alice Ai currently combines:
 
-  * 33 subject categories
-  * 5,292 parent and focused subtopic candidates
-  * 109,728 persistent learning paths
+  * 64 subject categories
+  * 8,516 parent and focused subtopic candidates
+  * 190,080 persistent learning paths
   * 3 learning levels: beginner, intermediate, and advanced
   * 6 learning modes: explanation, worked example, comparison, case study,
     troubleshooting, and practice project
